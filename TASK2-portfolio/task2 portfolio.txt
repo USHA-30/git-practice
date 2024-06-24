@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/ac42c3b1f7.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="rev.css">
+    <title>Portfolio Website</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light  fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" id="logo" href="#">
+                Portfolio.
+            </a>
+            <button class="navbar-toggler icon-color" type="button" data-toggle="collapse"
+                data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav ml-auto">
+                    <a class="nav-item nav-link active text-white" href="#homesection"> Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                    <a class="nav-item nav-link text-white" href="#aboutmeSection">About Me</a>
+                    <a class="nav-item nav-link text-white" href="#skillsSection">Skills</a>
+                    <a class="nav-item nav-link text-white" href="#projectsSection">Projects</a>
+                    <a class="nav-item nav-link text-white" href="#servicesSection">Services</a>
+                    <a class="nav-item nav-link text-white" href="#contactSection">Contact</a>
+                    <a href="#contactSection" class="btn">Hire Me</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="homesection d-flex flex-column justify-content-center pl-5" id="homesection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-4 order-1 order-md-2 ">
+                    
+                </div>
+                <div class="col-12  text order-2 order-md-1 col-md-8">
+                    <h1 class="title">Hello Everybody , I am <br><span class="name">B.PRUDHVI NARAYANA </span></h1>
+                    <h1 class="heading"> <span class="name">W</span>EB <span class="name">D</span>EVELOPER</h1>
+
+                    
+                    <br><br>
+                    <a href="https://github.com/PRUDHVI-14" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/in/prudhvi-bandi-pandu-953254285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><i
+                            class="fab fa-linkedin fa-2x"></i></a>
+                    <a href="" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                    <a href="https://www.instagram.com/panduprudhvi3/" target="_blank"><i
+                            class="fab fa-instagram fa-2x"></i></a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="aboutmesection pt-5 pb-5  d-flex flex-column justify-content-cente" id="aboutmeSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading1 mb-3">About Me</h1>
+                </div>
+                <div class="col-12  col-md-4 order-1 order-md-1 d-flex flex-row justify-content-between">
+                    
+                </div>
+
+                <div class="col-12  text order-2 order-md-2 col-md-8 ">
+                    <p class="paragraph">I am currently pursuing ELECTRONICS AND COMMUNICATION Engineering at Aditya College of
+                        Engineering Madanapalli(ACEM),Affiliated with JNTUA Ananthapur.
+                        I am always ready to have new experiences, meet new people and learn new things. I find the idea
+                        of
+                        creating value for people and impacting the world through my work gratifying.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="skills-section pt-5 pb-5" id="skillsSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading3">Skills :</h1>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="shadow skills-card text-center mb-5 ml-4">
+                        <img src="p-html.png" class="skills-card-image pt-3" />
+                        <h1 class="skills-card-title pt-3 pb-3 ">Web Development</h1>
+                    </div>
+                </div>
+
+                <div class="col-6 col-md-3">
+                    <div class="shadow skills-card text-center mb-5 ml-4">
+                        <img src="python logo.png" class="skills-card-image pt-3" />
+                        <h1 class="skills-card-title pt-3 pb-3">Python</h1>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="shadow skills-card text-center mb-5 ml-4">
+                        <img src="Java-logo.jpg" class="skills-card-image pt-3" />
+                        <h1 class="skills-card-title pt-3 pb-3">Java</h1>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="shadow skills-card text-center md-5 ml-4">
+                        <img src="p-js.png" class="skills-card-image pt-3" />
+                        <h1 class="skills-card-title pt-3 pb-3">JS</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div class="projects-section pt-5 pb-5" id="projectsSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading1 mb-5">My Latest Projects</h1>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="card-container mb-3 ml-5">
+                        
+                        <div class="p-3">
+                            <p class="p">Web development</p>
+                            <h1 class="card-heading">Vpack4U</h1>
+                            <p class="para">Discover the OLDEN DAYS FOOD AT OUR ONLINE STORE THAT WE CAN 
+                                PACK FOR YOU WITHIN NO TIME.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="card-container mb-3 ml-5">
+                        
+                        <div class=" p-3">
+                            <p class="p">Front-end Development</p>
+                            <h1 class="card-heading">E-LEARNING WEBSITE</h1>
+                            <p class="para">An e-learning website is your digital storefront on the internet. It
+                                facilitates to learn particular courses with suitable learning videos. It is the virtual space where
+                                you can easily access the courses for free.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="services-section pt-5 pb-5" id="servicesSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading1 mb-3">Services</h1>
+                    <h1 class="h2 mb-5 ml-3">What I do</h1>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="shadow card-container  p-3 mb-3">
+                        <img src="portfolio-web-design-img.png" class="img4 mb-3" />
+                        <h1 class="card-heading">Static Websites</h1>
+                        <p class="para">A Static Website contains Web pages with fixed content.
+                            Each page is developed using HTML and CSS and displays the same information
+                            to every visitor.</p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-4">
+                    <div class="shadow card-container  p-3 mb-3">
+                        <img src="portfolio-web-development-img.png" class="img4 mb-3" />
+                        <h1 class="card-heading">Responsive Web design</h1>
+                        <p class="para">Responsive Web design is the approach that suggests that
+                            design and development should respond to the user's behaviour and environment
+                            based on screen size, platform and orientation.</p>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-4">
+                    <div class="shadow card-container  p-3 mb-3">
+                        <img src="portfolio-customize-img.png" class="img4 mb-3" />
+                        <h1 class="card-heading">Dynamic Website</h1>
+                        <p class="para">A dynamic website is a website that changes as users interact with it. Dynamic
+                            websites allow for things like showing real time inventory and personalization by user.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="contact-section pt-5 pb-5" id="contactSection">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <h1 class="heading">Contact me</h1>
+                </div>
+                <div class="col-12 col-md-3 mb-3 ml-5">
+                    <h1 class="heading2">Phone No.</h1>
+                    <div>
+                        <i class="fas fa-phone icon "></i>
+                        <span class="para1 ml-2">8074607055</span>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 mb-3 ml-5">
+                    <h1 class="heading2">E-mail</h1>
+                    <div>
+                        <i class="fa fa-envelope icon"></i>
+                        <span class="para1 ml-2">prudhvibandipandu@gmail.com</span>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 mb-3 ml-5">
+                    <h1 class="heading2">Address</h1>
+                    <div>
+                        <i class="fa fa-map-location-dot icon"></i>
+                        <span class="para1 ml-2">Madanapalli,AP</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
