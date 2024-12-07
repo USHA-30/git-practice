@@ -1,0 +1,57 @@
+Portfolio.
+Home(current)
+About Me
+Skills
+Projects
+Services
+Contact
+Hello Everybody , I am
+B.PRUDHVI NARAYANA
+WEB DEVELOPER
+
+
+   
+About Me
+I am currently pursuing ELECTRONICS AND COMMUNICATION Engineering at Aditya College of Engineering Madanapalli(ACEM),Affiliated with JNTUA Ananthapur. I am always ready to have new experiences, meet new people and learn new things. I find the idea of creating value for people and impacting the world through my work gratifying.
+
+Skills :
+
+Python
+Java
+DSA with Java
+HTML
+CSS
+
+
+My Latest Projects
+Web development
+
+Vpack4U
+Discover the OLDEN DAYS FOOD AT OUR ONLINE STORE THAT WE CAN PACK FOR YOU WITHIN NO TIME.
+
+Front-end Development
+
+E-LEARNING WEBSITE
+An e-learning website is your digital storefront on the internet. It facilitates to learn particular courses with suitable learning videos. It is the virtual space where you can easily access the courses for free.
+
+Services
+What I do
+
+Static Websites
+A Static Website contains Web pages with fixed content. Each page is developed using HTML and CSS and displays the same information to every visitor.
+
+
+Responsive Web design
+Responsive Web design is the approach that suggests that design and development should respond to the user's behaviour and environment based on screen size, platform and orientation.
+
+
+Dynamic Website
+A dynamic website is a website that changes as users interact with it. Dynamic websites allow for things like showing real time inventory and personalization by user.
+
+Contact me
+Phone No.
+ 8074607055
+E-mail
+ prudhvibandipandu@gmail.com
+Address
+ Madanapalli,AP
